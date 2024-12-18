@@ -42,5 +42,5 @@ Follow these steps to set up and run **Finance_Analyser-AgenAi**:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Finance_Analyser-AgenAi.git
+git clone https://github.com/JIVTESH28/Finance_Analyser-AgenAi.git
 cd Finance_Analyser-AgenAi
